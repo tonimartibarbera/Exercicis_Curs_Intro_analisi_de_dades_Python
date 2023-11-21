@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Juan",
+    "Edad": 42,
+    "Departamento": "Comunicación"
+  },
+  {
+    "Nombre": "Laura",
+    "Edad": 40,
+    "Departamento": "Administración"
+  },
+  {
+    "Nombre": "Pepe",
+    "Edad": 37,
+    "Departamento": "Ventas"
+  }
+]
